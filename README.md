@@ -31,5 +31,3 @@ Object Oriented Programming/
 │   └── Multilevel Inheritance and Access Control/
 │
 └── README.md
-
-C++
