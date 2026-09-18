@@ -28,7 +28,8 @@ Object Oriented Programming/
 │   ├── Destructors and Static Members/
 │   ├── Static and Friend Functions/
 │   ├── Inheritance/
-│   └── Multilevel Inheritance and Access Control/
+│   ├── Multilevel Inheritance and Access Control/
+│   └── Static and Friend Functions /
 │
 └── README.md
 ```
