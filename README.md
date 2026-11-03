@@ -166,6 +166,23 @@ Further exercises exploring multilevel class hierarchies and access control usin
   - `private`
   - `public`
   - `protected`
+- **Polymorphism**
+  - Compile-time polymorphism
+  - Runtime polymorphism
+  - Function overloading
+  - Function overriding
+  - Operator overloading
+  - Virtual functions
+  - Pure virtual functions
+  - Abstract classes
+  - Runtime polymorphism using base class pointers
+- **Exception Handling**
+  - Exception handling using `try`, `throw`, and `catch`
+  - Handling integer and floating-point exceptions
+  - Handling division by zero
+  - Handling string-based exceptions
+  - Multiple catch blocks
+  - Exception handling and normal program execution
 
 ---
 
